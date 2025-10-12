@@ -1,0 +1,53 @@
+{
+  "name": "capybash/magicread",
+  "version": "1.0.0",
+  "description": "MagicRead adds a clean discussion pager and a live character counter for the composer.",
+  "type": "flarum-extension",
+  "keywords": [
+    "flarum",
+    "extension",
+    "pagination",
+    "pager",
+    "composer",
+    "counter",
+    "magic"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/capybash/magicread",
+  "support": {
+    "issues": "https://github.com/capybash/magicread/issues",
+    "source": "https://github.com/capybash/magicread"
+  },
+  "authors": [
+    {
+      "name": "capybash",
+      "homepage": "https://github.com/capybash"
+    }
+  ],
+  "require": {
+    "php": ">=8.0",
+    "flarum/core": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Capybash\\MagicRead\\": "src/"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-1.x": "1.x-dev"
+    },
+    "flarum-extension": {
+      "title": "MagicRead",
+      "category": "feature",
+      "icon": {
+        "name": "fas fa-hat-wizard",
+        "backgroundColor": "#6A5ACD",
+        "color": "#ffffff"
+      }
+    }
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
