@@ -1,0 +1,9 @@
+capybash-magicread:
+  admin:
+    settings:
+      section_main: Настройки
+      enable_pagination: Пагинация в дискуссиях
+      enable_counter: Счётчик символов в редакторе
+  forum:
+    counter:
+      label: Символы
