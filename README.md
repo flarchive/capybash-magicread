@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of capybash/magicread.** Not for installation: use [Packagist](https://packagist.org/packages/capybash/magicread) or the [upstream repository](https://github.com/capybash/magicread).
 
-**0** versions archived · Latest: [`v4.1.0`](https://github.com/flarchive/capybash-magicread/tree/archive/v4.1.0) · License: `MIT` · Flarum: `^2.0`
+**6** versions archived · Latest: [`v4.1.0`](https://github.com/flarchive/capybash-magicread/tree/archive/v4.1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2025-10-12 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicread/tree/archive/v1.0.0) |
+| `v1.1.1` | 2025-10-12 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicread/tree/archive/v1.1.1) |
+| `v2.0.0` | 2025-10-17 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicread/tree/archive/v2.0.0) |
+| `v3.0.0` | 2025-10-17 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicread/tree/archive/v3.0.0) |
+| `v4.0.0` | 2025-10-22 | `^1.8` | [Browse](https://github.com/flarchive/capybash-magicread/tree/archive/v4.0.0) |
+| `v4.1.0` | 2025-10-22 | `^2.0` | [Browse](https://github.com/flarchive/capybash-magicread/tree/archive/v4.1.0) |
 
 Catalog entry: [packages/capybash-magicread.json](https://github.com/flarchive/archive-index/blob/main/packages/capybash-magicread.json)
 
